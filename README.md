@@ -1,2 +1,2 @@
 # amigo-secreto-alura
-! en desarrollo
+## en desarrollo
